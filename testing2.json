@@ -1,4 +1,6 @@
-[
+{
+  "status": "ok",
+ "dataBenefit": [
   {
     "memberID": "4",
     "memberLimit": 0,
@@ -495,3 +497,4 @@
     }
   }
 ]
+}
