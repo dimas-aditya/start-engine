@@ -1,0 +1,497 @@
+[
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1185,
+      "code": "BKRS",
+      "name": "Biaya kamar RS,per hari (maks 100 hari per kasus)"
+    },
+    "benefitMaster": {
+      "id": 113,
+      "code": "OP123",
+      "name": "KAMAR PERAWATAN"
+    },
+    "conditionType": {
+      "id": 1,
+      "code": "CT_01",
+      "name": "DAILY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 29,
+      "value": 250000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 224558,
+      "value": 250000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1186,
+      "code": "BUPI",
+      "name": "Biaya Unit Perawatan Intensif, per hari (maks 30 hari per kasus)"
+    },
+    "benefitMaster": {
+      "id": 12,
+      "code": "IP202",
+      "name": "UNIT PERAWATAN INTENSIF"
+    },
+    "conditionType": {
+      "id": 1,
+      "code": "CT_01",
+      "name": "DAILY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 30,
+      "value": 500000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 83,
+      "value": 500000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1187,
+      "code": "BPA",
+      "name": "Biaya Pembedahan A (per ketidakmampuan)"
+    },
+    "benefitMaster": {
+      "id": 15,
+      "code": "IP205",
+      "name": "BEDAH (COMPLEX)"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 31,
+      "value": 29550000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 84,
+      "value": 29550000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1188,
+      "code": "BPB",
+      "name": "Biaya Pembedahan B (per ketidakmampuan)"
+    },
+    "benefitMaster": {
+      "id": 16,
+      "code": "IP206",
+      "name": "BEDAH BESAR (MAJOR)"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 32,
+      "value": 15150000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 224549,
+      "value": 15150000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1189,
+      "code": "BPC",
+      "name": "Biaya Pembedahan C (per ketidakmampuan)"
+    },
+    "benefitMaster": {
+      "id": 17,
+      "code": "IP207",
+      "name": "BEDAH SEDANG (INTERMEDIATE)"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 33,
+      "value": 7230000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 86,
+      "value": 7230000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1190,
+      "code": "BPD",
+      "name": "Biaya Pembedahan D (per ketidakmampuan)"
+    },
+    "benefitMaster": {
+      "id": 18,
+      "code": "IP208",
+      "name": "BEDAH KECIL (MINOR)"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 34,
+      "value": 3630000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 87,
+      "value": 3630000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1191,
+      "code": "BPRS",
+      "name": "Biaya perawatan RS lainnya, per ketidakmampuan"
+    },
+    "benefitMaster": {
+      "id": 13,
+      "code": "IP203",
+      "name": "ANEKA PERAWATAN"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 35,
+      "value": 7500000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 224552,
+      "value": 7500000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1192,
+      "code": "BKDU",
+      "name": "Biaya Kunjungan Dokter di RS, per hari"
+    },
+    "benefitMaster": {
+      "id": 19,
+      "code": "IP209",
+      "name": "KUNJUNGAN / KONSULTASI DOKTER"
+    },
+    "conditionType": {
+      "id": 1,
+      "code": "CT_01",
+      "name": "DAILY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 36,
+      "value": 125000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 224553,
+      "value": 125000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1193,
+      "code": "BKDSPES",
+      "name": "Biaya Konsultasi Dokter Spesialis di RS, per hari"
+    },
+    "benefitMaster": {
+      "id": 20,
+      "code": "IP210",
+      "name": "KUNJUNGAN / KONSULTASI SPESIALIS"
+    },
+    "conditionType": {
+      "id": 1,
+      "code": "CT_01",
+      "name": "DAILY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 37,
+      "value": 235000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 90,
+      "value": 235000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1194,
+      "code": "BSSRI",
+      "name": "Biaya sebelum dan sesudah rawat inap, per ketidakmampuan"
+    },
+    "benefitMaster": {
+      "id": 23,
+      "code": "IP213",
+      "name": "SEBELUM DAN SESUDAH RAWAT INAP"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 38,
+      "value": 750000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 224543,
+      "value": 750000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1195,
+      "code": "BPGD",
+      "name": "Biaya perawatan Gawat Darurat, per ketidakmampuan"
+    },
+    "benefitMaster": {
+      "id": 83,
+      "code": "IP259",
+      "name": "RAWAT JALAN DARURAT & RAWAT GIGI DARURAT (KECELAKAAN)"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 39,
+      "value": 2750000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 92,
+      "value": 2750000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1196,
+      "code": "BPPR",
+      "name": "Biaya perawat pribadi, per hari"
+    },
+    "benefitMaster": {
+      "id": 21,
+      "code": "IP211",
+      "name": "PERAWAT PRIBADI"
+    },
+    "conditionType": {
+      "id": 1,
+      "code": "CT_01",
+      "name": "DAILY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 40,
+      "value": 145000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 187102,
+      "value": 145000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1197,
+      "code": "BAMB",
+      "name": "Biaya ambulan, per rawat inap"
+    },
+    "benefitMaster": {
+      "id": 22,
+      "code": "IP212",
+      "name": "AMBULANS"
+    },
+    "conditionType": {
+      "id": 5,
+      "code": "CT_05",
+      "name": "OCCURENCE"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 41,
+      "value": 110000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 224546,
+      "value": 110000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1198,
+      "code": "SKM",
+      "name": "Santunan kematian"
+    },
+    "benefitMaster": {
+      "id": 31,
+      "code": "IP221",
+      "name": "SANTUNAN KEMATIAN (NATURAL & KECELAKAAN)"
+    },
+    "conditionType": {
+      "id": 4,
+      "code": "CT_04",
+      "name": "DISABILITY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 42,
+      "value": 5000000
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 224547,
+      "value": 5000000,
+      "version": 0
+    }
+  },
+  {
+    "memberID": "4",
+    "memberLimit": 0,
+    "benefit": {
+      "id": 1797,
+      "code": "BTD",
+      "name": "Biaya Tidak Dijamin"
+    },
+    "benefitMaster": {
+      "id": 86,
+      "code": "DT308",
+      "name": "BIAYA TIDAK DIJAMIN"
+    },
+    "conditionType": {
+      "id": 2,
+      "code": "CT_02",
+      "name": "YEARLY"
+    },
+    "limitType": {
+      "id": 2,
+      "code": "LT_02",
+      "name": "AMOUNT"
+    },
+    "benefitLimitCondition": {
+      "id": 670,
+      "value": 0
+    },
+    "beneficiaryBenefitRemainingLimit": {
+      "id": 195290,
+      "value": 0,
+      "version": 0
+    }
+  }
+]
