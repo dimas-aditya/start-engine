@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "data": [
+  {
+    "memberID": "4",
+    "planMaster": {
+      "id": 3,
+      "name": "RAWAT INAP Plan C_IP",
+      "code": "C_IP"
+    },
+    "planLimitCondition": {
+      "id": 3,
+      "value": -1
+    },
+    "beneficiaryPlan": {
+      "id": 7,
+      "startDate": "2020-01-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00"
+    },
+    "beneficiaryPlanRemainingLimit": {
+      "id": 7,
+      "value": -1,
+      "version": 0
+    },
+    "beneficiaryPlanRemainingLimitConsumption": null,
+    "medicalService": {
+      "id": 2,
+      "code": "IP",
+      "name": "In Patient"
+    }
+  }
+]
+}
