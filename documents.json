@@ -62,7 +62,7 @@
       "planMaster": {
         "id": 5,
         "name": "Document Test 3",
-        "code": "B_OP"
+        "code": "B_OP1"
       },
       "planLimitCondition": {
         "id": 5,
@@ -90,7 +90,7 @@
       "planMaster": {
         "id": 5,
         "name": "Document Test 4",
-        "code": "B_OP"
+        "code": "B_OP2"
       },
       "planLimitCondition": {
         "id": 5,
@@ -118,7 +118,7 @@
       "planMaster": {
         "id": 5,
         "name": "Document Test 5",
-        "code": "B_OP"
+        "code": "B_OP5"
       },
       "planLimitCondition": {
         "id": 5,
@@ -146,7 +146,7 @@
       "planMaster": {
         "id": 5,
         "name": "Document Test 6",
-        "code": "B_OP"
+        "code": "B_OP6"
       },
       "planLimitCondition": {
         "id": 5,
@@ -174,7 +174,7 @@
       "planMaster": {
         "id": 5,
         "name": "Document Test 7",
-        "code": "B_OP"
+        "code": "B_OP7"
       },
       "planLimitCondition": {
         "id": 5,
