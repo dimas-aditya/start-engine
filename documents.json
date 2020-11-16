@@ -1,0 +1,61 @@
+{
+  "status": "ok",
+  "data": [
+  {
+    "memberID": "4",
+    "planMaster": {
+      "id": 3,
+      "name": "Document Test 1",
+      "code": "C_IP"
+    },
+    "planLimitCondition": {
+      "id": 3,
+      "value": -1
+    },
+    "beneficiaryPlan": {
+      "id": 7,
+      "startDate": "2020-01-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00"
+    },
+    "beneficiaryPlanRemainingLimit": {
+      "id": 7,
+      "value": -1,
+      "version": 0
+    },
+    "beneficiaryPlanRemainingLimitConsumption": null,
+    "medicalService": {
+      "id": 2,
+      "code": "IP",
+      "name": "In Patient"
+    }
+  },
+  {
+    "memberID": "4",
+    "planMaster": {
+      "id": 5,
+      "name": "Document Test 1",
+      "code": "B_OP"
+    },
+    "planLimitCondition": {
+      "id": 5,
+      "value": 4800000
+    },
+    "beneficiaryPlan": {
+      "id": 8,
+      "startDate": "2020-01-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00"
+    },
+    "beneficiaryPlanRemainingLimit": {
+      "id": 8,
+      "value": 4800000,
+      "version": 0
+    },
+    "beneficiaryPlanRemainingLimitConsumption": null,
+    "medicalService": {
+      "id": 1,
+      "code": "OP",
+      "name": "Out Patient"
+    }
+  }
+]
+}
