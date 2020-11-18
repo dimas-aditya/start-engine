@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": "4",
+      "userID": "4",
+      "file1": {
+        "name": "Document Test 1",
+        "nameSeal": "Third_Party_Administration.pdf.ezseal",
+         "description": "",
+        "filePath": "D:\\gitDoc\\docseal\\2992085555",
+           "filePathSeal": "D:\\gitDoc\\docseal\\2992085555\\Seal"
+      }
+    },
+    {
+      "id": "4",
+      "userID": "4",
+      "file1": {
+        "name": "Document Test 2",
+        "nameSeal": "Third_Party_Administration.pdf.ezseal",
+         "description": "",
+        "filePath": "D:\\gitDoc\\docseal\\2992085555",
+           "filePathSeal": "D:\\gitDoc\\docseal\\2992085555\\Seal"
+      }
+    }
+  ]
+}
