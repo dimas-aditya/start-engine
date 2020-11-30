@@ -1,0 +1,16 @@
+{
+  "identity": "did:emtrust:0xf3d31b1c15f6a46a2d4b",
+  "privateKey": "48e7ad0623433e039377815c12954a5ca3fae2b9aaadeba0eae21b0a0bb8e220",
+  "publicKey": "0423a93f0adf0ed907a373f09cacedb2c07b25b5945f09cb32d4558df465a2ef9292129543b5a227f0d6aa356942c094a74cd4cae5e8ab96f2db86f6cc36665af2",
+  "secret": "then own dumb seek shaft suit very sight piano now region guess transfer glide menu wheat human dream jaguar swap old shadow modify merry",
+  "displayColors": [
+    "#FFECB3",
+    "#FFA000"
+  ],
+  "enrollStatus": true,
+  "demographics": {
+    "pic": "",
+    "email": "Emtrust@gmail.com",
+    "name": "Emtrust User"
+  }
+}
