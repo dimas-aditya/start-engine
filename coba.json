@@ -1,0 +1,13 @@
+{
+  "responseAt": "2021-08-16T11:41:41.442098+07:00",
+  "requestAt": "2021-08-16T11:41:41.4420957+07:00",
+  "message": "Data found!",
+  "description": "Data found!",
+  "status": "success",
+  "isSuccess": true,
+  "data": {
+    "id": 4211,
+    "beneficiaryID": "5280",
+    "createdDate": "0001-01-01T00:00:00"
+  }
+}
